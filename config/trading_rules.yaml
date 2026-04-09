@@ -1,0 +1,6 @@
+# Trading rules and constraints
+max_risk_per_trade: 0.01  # 1% of capital
+max_daily_loss: 0.05  # 5% of capital
+min_confidence: 0.7  # Minimum prediction confidence to trade
+stop_loss_multiplier: 1.5
+take_profit_multiplier: 2.0

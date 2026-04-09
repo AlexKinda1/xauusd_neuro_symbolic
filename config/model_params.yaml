@@ -1,0 +1,6 @@
+# Hyperparameters for the LSTM model
+epochs: 100
+batch_size: 32
+seq_length: 60
+learning_rate: 0.001
+dropout: 0.2
