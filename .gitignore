@@ -1,5 +1,6 @@
 # Data and environment
 data/
+XAUUSD_data_M1/
 .env
 
 # Python
@@ -51,3 +52,4 @@ Thumbs.db
 *.h5
 *.pt
 *.pkl
+
