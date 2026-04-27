@@ -6,12 +6,12 @@ Un système de trading neuro-symbolique avancé pour XAUUSD (Gold vs US Dollar) 
 
 ## Fonctionnalités principales
 
-### 🧠 Modèle Prédictif Deep Learning
+### Modèle Prédictif Deep Learning
 - Architecture LSTM/GRU pour la prédiction des prix XAUUSD
 - Entraînement et validation sur données historiques OHLC
 - Sauvegarde et chargement des poids du modèle
 
-### 🤖 Agents IA Symboliques
+###  Agents IA Symboliques
 - **Économiste** : Analyse des facteurs macroéconomiques (calendrier économique, indicateurs)
 - **Quant** : Analyse statistique et prédictions du modèle
 - **Risk Manager** : Évaluation des risques et calcul des stops/take profits
